@@ -1,0 +1,4734 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>Cloud base</VAR>
+<UNIT>m</UNIT>
+<PERIOD>20200508-20200522</PERIOD>
+ <STATION>
+ <MEAN_OBS>   1188.61108     </MEAN_OBS>
+ <STDV_OBS>   3125.63281     </STDV_OBS>
+ <EXP>
+ <ID>        3017 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   3278.06421     </MEAN>
+ <STDV>  0.219345808     </STDV>
+ <BIAS>   2654.61353     </BIAS>
+ <RMSE>  0.351526499     </RMSE>
+ <CORR>  -4.57143099E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3017 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   7.34000136E-42 </STDV>
+ <BIAS>   2922.63623     </BIAS>
+ <RMSE>  0.390713453     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3017 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -4.41967167E+14 </STDV>
+ <BIAS>   2859.81323     </BIAS>
+ <RMSE>  0.408339560     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1209.76196     </MEAN_OBS>
+ <STDV_OBS>   2803.35645     </STDV_OBS>
+ <EXP>
+ <ID>        3023 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   2292.40527     </MEAN>
+ <STDV>  -4.34334977E+14 </STDV>
+ <BIAS>   2307.49292     </BIAS>
+ <RMSE>  0.420824230     </RMSE>
+ <CORR>   1.47656371E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3023 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2586.95557     </BIAS>
+ <RMSE>  0.452117205     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3023 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   2859.81323     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2516.21118     </BIAS>
+ <RMSE>  0.437657773     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1187.97302     </MEAN_OBS>
+ <STDV_OBS>   3062.60913     </STDV_OBS>
+ <EXP>
+ <ID>        3026 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         222 </NUM>
+ <MEAN>   2745.11035     </MEAN>
+ <STDV>   1.47673901E+30 </STDV>
+ <BIAS>   2416.05664     </BIAS>
+ <RMSE>  0.413779616     </RMSE>
+ <CORR>  -4.34333903E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3026 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         222 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2741.04248     </BIAS>
+ <RMSE>  0.446592271     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3026 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         222 </NUM>
+ <MEAN>   2516.21118     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2729.06909     </BIAS>
+ <RMSE>  0.451925755     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   862.568787     </MEAN_OBS>
+ <STDV_OBS>   3084.33667     </STDV_OBS>
+ <EXP>
+ <ID>        3031 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   2433.79688     </MEAN>
+ <STDV>  -4.56090832E+14 </STDV>
+ <BIAS>   2761.00391     </BIAS>
+ <RMSE>  0.389121205     </RMSE>
+ <CORR>  -4.57143065E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3031 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3038.56665     </BIAS>
+ <RMSE>  0.333524436     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3031 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   2729.06909     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2951.30811     </BIAS>
+ <RMSE>  0.359910220     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1086.02795     </MEAN_OBS>
+ <STDV_OBS>   2693.46460     </STDV_OBS>
+ <EXP>
+ <ID>        3034 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   2122.10400     </MEAN>
+ <STDV>  -4.34370410E+14 </STDV>
+ <BIAS>   2086.62988     </BIAS>
+ <RMSE>  0.482528865     </RMSE>
+ <CORR>   1.47658033E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3034 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2430.81396     </BIAS>
+ <RMSE>  0.465443194     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3034 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   2951.30811     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2402.56445     </BIAS>
+ <RMSE>  0.465566695     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1062.77783     </MEAN_OBS>
+ <STDV_OBS>   2827.41528     </STDV_OBS>
+ <EXP>
+ <ID>        3044 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   2460.96094     </MEAN>
+ <STDV>  -4.34038087E+14 </STDV>
+ <BIAS>   2289.30029     </BIAS>
+ <RMSE>  0.322472930     </RMSE>
+ <CORR>  -4.22798393E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3044 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2728.66943     </BIAS>
+ <RMSE>  0.313984632     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3044 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   8.57180595     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2663.01831     </BIAS>
+ <RMSE>  0.336842597     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1008.25476     </MEAN_OBS>
+ <STDV_OBS>   3124.86523     </STDV_OBS>
+ <EXP>
+ <ID>        3047 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         212 </NUM>
+ <MEAN>   2642.07910     </MEAN>
+ <STDV>  -4.34334977E+14 </STDV>
+ <BIAS>   2793.66479     </BIAS>
+ <RMSE>  0.342528790     </RMSE>
+ <CORR>  -4.34333635E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3047 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         212 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2947.14795     </BIAS>
+ <RMSE>  0.385595351     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3047 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         212 </NUM>
+ <MEAN>   2663.01831     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2933.84180     </BIAS>
+ <RMSE>  0.389682502     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1312.70642     </MEAN_OBS>
+ <STDV_OBS>   3108.61572     </STDV_OBS>
+ <EXP>
+ <ID>        3062 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   3621.50073     </MEAN>
+ <STDV>   1.47671573E+30 </STDV>
+ <BIAS>   2750.94702     </BIAS>
+ <RMSE>  0.350850552     </RMSE>
+ <CORR>  -4.34371484E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3062 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2934.78833     </BIAS>
+ <RMSE>  0.360549897     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3062 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   2933.84180     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2889.51416     </BIAS>
+ <RMSE>  0.364969760     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1339.44446     </MEAN_OBS>
+ <STDV_OBS>   3149.27612     </STDV_OBS>
+ <EXP>
+ <ID>        3063 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   3168.13794     </MEAN>
+ <STDV>  -4.33233318E+14 </STDV>
+ <BIAS>   2841.51807     </BIAS>
+ <RMSE>  0.358862638     </RMSE>
+ <CORR>  -4.22798359E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3063 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2941.93774     </BIAS>
+ <RMSE>  0.399291277     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3063 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   2889.51416     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2979.08569     </BIAS>
+ <RMSE>  0.321227610     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1441.10083     </MEAN_OBS>
+ <STDV_OBS>   2985.01001     </STDV_OBS>
+ <EXP>
+ <ID>        3066 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   3357.86108     </MEAN>
+ <STDV>  -4.22798359E+14 </STDV>
+ <BIAS>   2552.23560     </BIAS>
+ <RMSE>  0.374888182     </RMSE>
+ <CORR>  -4.34371014E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3066 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2813.43652     </BIAS>
+ <RMSE>  0.311575353     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3066 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   3.58881354     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2807.57129     </BIAS>
+ <RMSE>  0.333775759     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1420.38464     </MEAN_OBS>
+ <STDV_OBS>   3051.78516     </STDV_OBS>
+ <EXP>
+ <ID>        3068 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         234 </NUM>
+ <MEAN>   3667.90991     </MEAN>
+ <STDV>   1.47656492E+30 </STDV>
+ <BIAS>   2852.25098     </BIAS>
+ <RMSE>  0.345190406     </RMSE>
+ <CORR>   1.47734830E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3068 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         234 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3052.74292     </BIAS>
+ <RMSE>  0.277122587     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3068 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         234 </NUM>
+ <MEAN>   2807.57129     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3044.73096     </BIAS>
+ <RMSE>  0.275467008     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1463.65393     </MEAN_OBS>
+ <STDV_OBS>   3077.73096     </STDV_OBS>
+ <EXP>
+ <ID>        3075 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         208 </NUM>
+ <MEAN>   3127.86304     </MEAN>
+ <STDV>   1.47734830E+30 </STDV>
+ <BIAS>   2460.80444     </BIAS>
+ <RMSE>  0.509037435     </RMSE>
+ <CORR>  -4.34037819E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3075 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         208 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2732.17505     </BIAS>
+ <RMSE>  0.462558270     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3075 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         208 </NUM>
+ <MEAN>   2.59834480     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2726.62329     </BIAS>
+ <RMSE>  0.460251689     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1528.87842     </MEAN_OBS>
+ <STDV_OBS>   3037.93457     </STDV_OBS>
+ <EXP>
+ <ID>        3080 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   3977.61328     </MEAN>
+ <STDV>   1.47673901E+30 </STDV>
+ <BIAS>   2813.58521     </BIAS>
+ <RMSE>  0.283939838     </RMSE>
+ <CORR>  -4.34334977E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3080 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2911.02417     </BIAS>
+ <RMSE>  0.295892090     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3080 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   2726.62329     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2922.76147     </BIAS>
+ <RMSE>  0.275542080     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1732.25354     </MEAN_OBS>
+ <STDV_OBS>   2969.36328     </STDV_OBS>
+ <EXP>
+ <ID>        3088 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   4884.10840     </MEAN>
+ <STDV>  -4.33232848E+14 </STDV>
+ <BIAS>   2950.30444     </BIAS>
+ <RMSE>  0.244629681     </RMSE>
+ <CORR>  -4.34340547E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3088 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2940.85156     </BIAS>
+ <RMSE>  0.278709918     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3088 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   2922.76147     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2935.03857     </BIAS>
+ <RMSE>  0.232512295     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1836.05396     </MEAN_OBS>
+ <STDV_OBS>   3020.80688     </STDV_OBS>
+ <EXP>
+ <ID>        3091 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         223 </NUM>
+ <MEAN>   3900.11572     </MEAN>
+ <STDV>  -4.34370410E+14 </STDV>
+ <BIAS>   2595.82007     </BIAS>
+ <RMSE>  0.453067988     </RMSE>
+ <CORR>  -4.55246334E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3091 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         223 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2847.25513     </BIAS>
+ <RMSE>  0.360326797     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3091 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         223 </NUM>
+ <MEAN>   2935.03857     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2748.30469     </BIAS>
+ <RMSE>  0.417556822     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1066.82922     </MEAN_OBS>
+ <STDV_OBS>   3058.55811     </STDV_OBS>
+ <EXP>
+ <ID>        3100 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         205 </NUM>
+ <MEAN>   2597.99023     </MEAN>
+ <STDV>  -4.55246334E+14 </STDV>
+ <BIAS>   2607.75708     </BIAS>
+ <RMSE>  0.433219403     </RMSE>
+ <CORR>  -4.57174203E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3100 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         205 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2813.70703     </BIAS>
+ <RMSE>  0.402792364     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3100 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         205 </NUM>
+ <MEAN>   1.85539329     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2770.98340     </BIAS>
+ <RMSE>  0.421415716     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1297.65308     </MEAN_OBS>
+ <STDV_OBS>   3033.60327     </STDV_OBS>
+ <EXP>
+ <ID>        3105 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         196 </NUM>
+ <MEAN>   2867.57422     </MEAN>
+ <STDV>  -4.34371484E+14 </STDV>
+ <BIAS>   2664.43213     </BIAS>
+ <RMSE>  0.332622766     </RMSE>
+ <CORR>   1.57950601E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3105 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         196 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2863.40308     </BIAS>
+ <RMSE>  0.344780535     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3105 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         196 </NUM>
+ <MEAN>   2770.98340     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2832.11865     </BIAS>
+ <RMSE>  0.367739141     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1342.57727     </MEAN_OBS>
+ <STDV_OBS>   2991.53369     </STDV_OBS>
+ <EXP>
+ <ID>        3111 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         194 </NUM>
+ <MEAN>   3115.16357     </MEAN>
+ <STDV>   1.47734830E+30 </STDV>
+ <BIAS>   2755.44971     </BIAS>
+ <RMSE>  0.325403780     </RMSE>
+ <CORR>  -4.34334708E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3111 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         194 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2888.25024     </BIAS>
+ <RMSE>  0.319349825     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3111 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         194 </NUM>
+ <MEAN>   2832.11865     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2837.57568     </BIAS>
+ <RMSE>  0.316551358     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1203.77051     </MEAN_OBS>
+ <STDV_OBS>   3023.55444     </STDV_OBS>
+ <EXP>
+ <ID>        3132 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         183 </NUM>
+ <MEAN>   3421.04932     </MEAN>
+ <STDV>   1.57937061E+30 </STDV>
+ <BIAS>   2739.15283     </BIAS>
+ <RMSE>  0.291942060     </RMSE>
+ <CORR>  -4.34333903E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3132 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         183 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2980.68262     </BIAS>
+ <RMSE>  0.234603703     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3132 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         183 </NUM>
+ <MEAN>   2837.57568     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2977.81250     </BIAS>
+ <RMSE>  0.183139369     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1177.88660     </MEAN_OBS>
+ <STDV_OBS>   3221.06079     </STDV_OBS>
+ <EXP>
+ <ID>        3134 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         194 </NUM>
+ <MEAN>   4000.23560     </MEAN>
+ <STDV>  -4.33233318E+14 </STDV>
+ <BIAS>   2890.92700     </BIAS>
+ <RMSE>  0.378118068     </RMSE>
+ <CORR>   1.47658033E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3134 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         194 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2949.52881     </BIAS>
+ <RMSE>  0.408290744     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3134 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         194 </NUM>
+ <MEAN>   2977.81250     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2972.37451     </BIAS>
+ <RMSE>  0.416537017     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1426.10168     </MEAN_OBS>
+ <STDV_OBS>   3132.56226     </STDV_OBS>
+ <EXP>
+ <ID>        3136 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         177 </NUM>
+ <MEAN>   3564.50488     </MEAN>
+ <STDV>  -4.34370410E+14 </STDV>
+ <BIAS>   2834.68872     </BIAS>
+ <RMSE>  0.324617088     </RMSE>
+ <CORR>  -4.34334507E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3136 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         177 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3020.44922     </BIAS>
+ <RMSE>  0.303113699     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3136 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         177 </NUM>
+ <MEAN>   2972.37451     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2963.70728     </BIAS>
+ <RMSE>  0.322522819     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1345.46875     </MEAN_OBS>
+ <STDV_OBS>   3090.14648     </STDV_OBS>
+ <EXP>
+ <ID>        3144 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         192 </NUM>
+ <MEAN>   3810.24756     </MEAN>
+ <STDV>  -4.22798393E+14 </STDV>
+ <BIAS>   2957.94409     </BIAS>
+ <RMSE>  0.285799742     </RMSE>
+ <CORR>  -4.34333903E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3144 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         192 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2901.77148     </BIAS>
+ <RMSE>  0.421090394     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3144 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         192 </NUM>
+ <MEAN>   2963.70728     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2868.56909     </BIAS>
+ <RMSE>  0.415831745     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   933.625000     </MEAN_OBS>
+ <STDV_OBS>   2989.88965     </STDV_OBS>
+ <EXP>
+ <ID>        3153 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         160 </NUM>
+ <MEAN>   2819.02979     </MEAN>
+ <STDV>  -4.34333903E+14 </STDV>
+ <BIAS>   2619.85059     </BIAS>
+ <RMSE>  0.559417188     </RMSE>
+ <CORR>  -4.57175311E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3153 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         160 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2804.75415     </BIAS>
+ <RMSE>  0.538455784     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3153 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         160 </NUM>
+ <MEAN>   2.25563431     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2588.02393     </BIAS>
+ <RMSE>  0.592975140     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1186.85559     </MEAN_OBS>
+ <STDV_OBS>   3142.74048     </STDV_OBS>
+ <EXP>
+ <ID>        3155 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         194 </NUM>
+ <MEAN>   3292.19263     </MEAN>
+ <STDV>   1.57750403E+30 </STDV>
+ <BIAS>   2679.52734     </BIAS>
+ <RMSE>  0.443974316     </RMSE>
+ <CORR>  -4.34371215E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3155 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         194 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2838.09619     </BIAS>
+ <RMSE>  0.483728647     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3155 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         194 </NUM>
+ <MEAN>   2588.02393     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2822.06836     </BIAS>
+ <RMSE>  0.473535806     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1081.03088     </MEAN_OBS>
+ <STDV_OBS>   3203.91333     </STDV_OBS>
+ <EXP>
+ <ID>        3162 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         194 </NUM>
+ <MEAN>   3084.86206     </MEAN>
+ <STDV>   1.47673901E+30 </STDV>
+ <BIAS>   2686.97437     </BIAS>
+ <RMSE>  0.508235216     </RMSE>
+ <CORR>   1.47656492E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3162 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         194 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2877.56152     </BIAS>
+ <RMSE>  0.498676270     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3162 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         194 </NUM>
+ <MEAN>   2822.06836     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2802.72827     </BIAS>
+ <RMSE>  0.508143902     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1540.00000     </MEAN_OBS>
+ <STDV_OBS>   3068.75366     </STDV_OBS>
+ <EXP>
+ <ID>        3166 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         184 </NUM>
+ <MEAN>   3886.14502     </MEAN>
+ <STDV>  -4.33233318E+14 </STDV>
+ <BIAS>   2847.58179     </BIAS>
+ <RMSE>  0.298147202     </RMSE>
+ <CORR>  -4.34339473E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3166 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         184 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2914.18262     </BIAS>
+ <RMSE>  0.303350270     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3166 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         184 </NUM>
+ <MEAN>   2802.72827     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2869.46655     </BIAS>
+ <RMSE>  0.351474851     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2024.70874     </MEAN_OBS>
+ <STDV_OBS>   3045.43677     </STDV_OBS>
+ <EXP>
+ <ID>        3171 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         206 </NUM>
+ <MEAN>   4260.84766     </MEAN>
+ <STDV>  -4.57142025E+14 </STDV>
+ <BIAS>   2754.08667     </BIAS>
+ <RMSE>  0.424825877     </RMSE>
+ <CORR>  -4.34371014E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3171 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         206 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2780.00342     </BIAS>
+ <RMSE>  0.411477685     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3171 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         206 </NUM>
+ <MEAN>   2869.46655     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2781.34253     </BIAS>
+ <RMSE>  0.407993466     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1539.28186     </MEAN_OBS>
+ <STDV_OBS>   3132.92969     </STDV_OBS>
+ <EXP>
+ <ID>        3204 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         181 </NUM>
+ <MEAN>   3921.69824     </MEAN>
+ <STDV>  -4.44488279E+14 </STDV>
+ <BIAS>   2758.97827     </BIAS>
+ <RMSE>  0.501152813     </RMSE>
+ <CORR>   1.47656492E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3204 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         181 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2841.10791     </BIAS>
+ <RMSE>  0.477868140     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3204 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         181 </NUM>
+ <MEAN>   2781.34253     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2820.90894     </BIAS>
+ <RMSE>  0.479732037     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1158.80591     </MEAN_OBS>
+ <STDV_OBS>   3232.79736     </STDV_OBS>
+ <EXP>
+ <ID>        3210 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         134 </NUM>
+ <MEAN>   3972.05029     </MEAN>
+ <STDV>  -4.34371014E+14 </STDV>
+ <BIAS>   2935.49731     </BIAS>
+ <RMSE>  0.391692996     </RMSE>
+ <CORR>  -4.57175277E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3210 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         134 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2911.48047     </BIAS>
+ <RMSE>  0.483594298     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3210 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         134 </NUM>
+ <MEAN>   2820.90894     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2875.32251     </BIAS>
+ <RMSE>  0.519026995     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1273.64136     </MEAN_OBS>
+ <STDV_OBS>   3315.43506     </STDV_OBS>
+ <EXP>
+ <ID>        3212 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         184 </NUM>
+ <MEAN>   4015.01050     </MEAN>
+ <STDV>  -4.57174237E+14 </STDV>
+ <BIAS>   3119.67651     </BIAS>
+ <RMSE>  0.229248762     </RMSE>
+ <CORR>  -4.55246334E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3212 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         184 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3211.70679     </BIAS>
+ <RMSE>  0.230011076     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3212 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         184 </NUM>
+ <MEAN>   2875.32251     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3212.59937     </BIAS>
+ <RMSE>  0.242490843     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1105.00000     </MEAN_OBS>
+ <STDV_OBS>   3028.98730     </STDV_OBS>
+ <EXP>
+ <ID>        3220 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         150 </NUM>
+ <MEAN>   3000.50586     </MEAN>
+ <STDV>   1.47734830E+30 </STDV>
+ <BIAS>   2636.65503     </BIAS>
+ <RMSE>  0.494078577     </RMSE>
+ <CORR>   1.47656371E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3220 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         150 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2862.23804     </BIAS>
+ <RMSE>  0.417528689     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3220 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         150 </NUM>
+ <MEAN>   3212.59937     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2791.67993     </BIAS>
+ <RMSE>  0.444772631     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1088.10535     </MEAN_OBS>
+ <STDV_OBS>   3084.02539     </STDV_OBS>
+ <EXP>
+ <ID>        3224 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         190 </NUM>
+ <MEAN>   2828.06030     </MEAN>
+ <STDV>  -4.55246334E+14 </STDV>
+ <BIAS>   2690.50171     </BIAS>
+ <RMSE>  0.391734928     </RMSE>
+ <CORR>  -4.34334977E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3224 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         190 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2821.87549     </BIAS>
+ <RMSE>  0.426645398     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3224 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         190 </NUM>
+ <MEAN>   2791.67993     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2781.87354     </BIAS>
+ <RMSE>  0.432305336     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1123.10339     </MEAN_OBS>
+ <STDV_OBS>   3124.62866     </STDV_OBS>
+ <EXP>
+ <ID>        3225 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         174 </NUM>
+ <MEAN>   2892.62085     </MEAN>
+ <STDV>  -4.56090832E+14 </STDV>
+ <BIAS>   2630.53418     </BIAS>
+ <RMSE>  0.399981052     </RMSE>
+ <CORR>   1.47671573E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3225 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         174 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2905.65186     </BIAS>
+ <RMSE>  0.382796884     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3225 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         174 </NUM>
+ <MEAN>   2781.87354     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2907.94897     </BIAS>
+ <RMSE>  0.365199745     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1184.32581     </MEAN_OBS>
+ <STDV_OBS>   3217.16455     </STDV_OBS>
+ <EXP>
+ <ID>        3226 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         178 </NUM>
+ <MEAN>   3034.61768     </MEAN>
+ <STDV>  -4.34370410E+14 </STDV>
+ <BIAS>   2879.36572     </BIAS>
+ <RMSE>  0.422548771     </RMSE>
+ <CORR>   1.47656492E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3226 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         178 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2974.80249     </BIAS>
+ <RMSE>  0.385000974     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3226 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         178 </NUM>
+ <MEAN>   2907.94897     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2916.44458     </BIAS>
+ <RMSE>  0.431526452     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1353.43286     </MEAN_OBS>
+ <STDV_OBS>   3273.64355     </STDV_OBS>
+ <EXP>
+ <ID>        3230 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         201 </NUM>
+ <MEAN>   3910.87573     </MEAN>
+ <STDV>   1.47656492E+30 </STDV>
+ <BIAS>   2842.99951     </BIAS>
+ <RMSE>  0.459667504     </RMSE>
+ <CORR>   1.57937046E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3230 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         201 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2912.17334     </BIAS>
+ <RMSE>  0.490873158     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3230 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         201 </NUM>
+ <MEAN>   2.37303162     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2891.19629     </BIAS>
+ <RMSE>  0.492382586     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1467.48694     </MEAN_OBS>
+ <STDV_OBS>   3106.92334     </STDV_OBS>
+ <EXP>
+ <ID>        3238 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         191 </NUM>
+ <MEAN>   4023.42993     </MEAN>
+ <STDV>  -4.34333903E+14 </STDV>
+ <BIAS>   2853.52368     </BIAS>
+ <RMSE>  0.363670617     </RMSE>
+ <CORR>  -4.34371014E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3238 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         191 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2896.59155     </BIAS>
+ <RMSE>  0.334328115     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3238 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         191 </NUM>
+ <MEAN>   2891.19629     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2934.78564     </BIAS>
+ <RMSE>  0.321014166     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1713.75000     </MEAN_OBS>
+ <STDV_OBS>   2969.42773     </STDV_OBS>
+ <EXP>
+ <ID>        3240 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         192 </NUM>
+ <MEAN>   4442.19531     </MEAN>
+ <STDV>   1.57750403E+30 </STDV>
+ <BIAS>   2774.98950     </BIAS>
+ <RMSE>  0.358470351     </RMSE>
+ <CORR>  -4.34334708E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3240 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         192 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2781.77539     </BIAS>
+ <RMSE>  0.351302743     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3240 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         192 </NUM>
+ <MEAN>   2934.78564     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2788.91943     </BIAS>
+ <RMSE>  0.336632103     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1789.58826     </MEAN_OBS>
+ <STDV_OBS>   2963.87939     </STDV_OBS>
+ <EXP>
+ <ID>        3257 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         170 </NUM>
+ <MEAN>   3809.16113     </MEAN>
+ <STDV>  -4.34038087E+14 </STDV>
+ <BIAS>   2779.06055     </BIAS>
+ <RMSE>  0.317573696     </RMSE>
+ <CORR>   1.47673901E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3257 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         170 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2698.48120     </BIAS>
+ <RMSE>  0.434221923     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3257 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         170 </NUM>
+ <MEAN>   2788.91943     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2670.91821     </BIAS>
+ <RMSE>  0.432462811     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1584.03735     </MEAN_OBS>
+ <STDV_OBS>   2948.56934     </STDV_OBS>
+ <EXP>
+ <ID>        3265 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         161 </NUM>
+ <MEAN>   3732.88330     </MEAN>
+ <STDV>  -4.34334708E+14 </STDV>
+ <BIAS>   2546.17163     </BIAS>
+ <RMSE>  0.393905938     </RMSE>
+ <CORR>  -4.34371685E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3265 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         161 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2755.55640     </BIAS>
+ <RMSE>  0.381064266     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3265 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         161 </NUM>
+ <MEAN>   2670.91821     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2699.46265     </BIAS>
+ <RMSE>  0.399242043     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1527.72156     </MEAN_OBS>
+ <STDV_OBS>   2876.33984     </STDV_OBS>
+ <EXP>
+ <ID>        3266 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         158 </NUM>
+ <MEAN>   3758.09155     </MEAN>
+ <STDV>  -4.57142025E+14 </STDV>
+ <BIAS>   2580.53003     </BIAS>
+ <RMSE>  0.353013396     </RMSE>
+ <CORR>  -4.56090832E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3266 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         158 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2743.24731     </BIAS>
+ <RMSE>  0.329171032     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3266 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         158 </NUM>
+ <MEAN>   2699.46265     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2678.56592     </BIAS>
+ <RMSE>  0.358652622     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1516.38037     </MEAN_OBS>
+ <STDV_OBS>   2834.10596     </STDV_OBS>
+ <EXP>
+ <ID>        3275 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         163 </NUM>
+ <MEAN>   3994.16260     </MEAN>
+ <STDV>  -4.44488279E+14 </STDV>
+ <BIAS>   2506.98657     </BIAS>
+ <RMSE>  0.253206164     </RMSE>
+ <CORR>   1.47673901E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3275 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         163 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2734.10181     </BIAS>
+ <RMSE>  0.204491302     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3275 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         163 </NUM>
+ <MEAN>   2678.56592     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2802.38477     </BIAS>
+ <RMSE>  0.173897073     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1779.38647     </MEAN_OBS>
+ <STDV_OBS>   2918.03735     </STDV_OBS>
+ <EXP>
+ <ID>        3292 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         163 </NUM>
+ <MEAN>   4160.79199     </MEAN>
+ <STDV>  -4.57174237E+14 </STDV>
+ <BIAS>   2646.95166     </BIAS>
+ <RMSE>  0.314002842     </RMSE>
+ <CORR>  -4.33232848E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3292 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         163 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2834.34766     </BIAS>
+ <RMSE>  0.239185795     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3292 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         163 </NUM>
+ <MEAN>   8.61573219     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2862.83521     </BIAS>
+ <RMSE>  0.225176707     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1055.18994     </MEAN_OBS>
+ <STDV_OBS>   3289.18262     </STDV_OBS>
+ <EXP>
+ <ID>        3301 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         158 </NUM>
+ <MEAN>   3577.77905     </MEAN>
+ <STDV>   1.47734830E+30 </STDV>
+ <BIAS>   2682.56128     </BIAS>
+ <RMSE>  0.330837369     </RMSE>
+ <CORR>   1.47673901E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3301 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         158 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3145.03198     </BIAS>
+ <RMSE>  0.304223418     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3301 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         158 </NUM>
+ <MEAN>   2862.83521     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3124.61768     </BIAS>
+ <RMSE>  0.303019494     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1365.11279     </MEAN_OBS>
+ <STDV_OBS>   3233.81104     </STDV_OBS>
+ <EXP>
+ <ID>        3302 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         133 </NUM>
+ <MEAN>   3584.40552     </MEAN>
+ <STDV>  -4.34037819E+14 </STDV>
+ <BIAS>   2846.33789     </BIAS>
+ <RMSE>  0.365110457     </RMSE>
+ <CORR>  -4.34371484E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3302 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         133 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3299.62793     </BIAS>
+ <RMSE>  0.226452142     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3302 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         133 </NUM>
+ <MEAN>   3124.61768     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3323.64233     </BIAS>
+ <RMSE>  0.223505348     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   845.776428     </MEAN_OBS>
+ <STDV_OBS>   3321.21899     </STDV_OBS>
+ <EXP>
+ <ID>        3305 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         161 </NUM>
+ <MEAN>   2825.27026     </MEAN>
+ <STDV>   1.47673901E+30 </STDV>
+ <BIAS>   2909.48047     </BIAS>
+ <RMSE>  0.402089149     </RMSE>
+ <CORR>  -4.33224929E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3305 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         161 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3160.57837     </BIAS>
+ <RMSE>  0.408654988     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3305 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         161 </NUM>
+ <MEAN>   3323.64233     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3070.49731     </BIAS>
+ <RMSE>  0.429040343     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1506.79236     </MEAN_OBS>
+ <STDV_OBS>   2946.85034     </STDV_OBS>
+ <EXP>
+ <ID>        3313 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   5150.01953     </MEAN>
+ <STDV>  -4.34370410E+14 </STDV>
+ <BIAS>   3072.65576     </BIAS>
+ <RMSE>  0.142883196     </RMSE>
+ <CORR>  -4.57175311E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3313 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2977.70776     </BIAS>
+ <RMSE>  0.131511077     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3313 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   3070.49731     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2986.76660     </BIAS>
+ <RMSE>  0.126118749     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1628.71802     </MEAN_OBS>
+ <STDV_OBS>   2921.51709     </STDV_OBS>
+ <EXP>
+ <ID>        3321 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         117 </NUM>
+ <MEAN>   3952.32715     </MEAN>
+ <STDV>  -4.34333903E+14 </STDV>
+ <BIAS>   2669.63379     </BIAS>
+ <RMSE>  0.288786709     </RMSE>
+ <CORR>   1.47656280E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3321 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         117 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2879.38672     </BIAS>
+ <RMSE>  0.192558408     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3321 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         117 </NUM>
+ <MEAN>   5.89369869     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2858.50195     </BIAS>
+ <RMSE>  0.216373608     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1333.51855     </MEAN_OBS>
+ <STDV_OBS>   3231.63501     </STDV_OBS>
+ <EXP>
+ <ID>        3330 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   3890.59570     </MEAN>
+ <STDV>   1.47734710E+30 </STDV>
+ <BIAS>   2945.95459     </BIAS>
+ <RMSE>  0.331487387     </RMSE>
+ <CORR>  -4.57143099E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3330 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3107.68701     </BIAS>
+ <RMSE>  0.278695792     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3330 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   2858.50195     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3107.75586     </BIAS>
+ <RMSE>  0.285004288     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1368.59656     </MEAN_OBS>
+ <STDV_OBS>   3143.82129     </STDV_OBS>
+ <EXP>
+ <ID>        3344 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         171 </NUM>
+ <MEAN>   3637.74341     </MEAN>
+ <STDV>  -4.55246334E+14 </STDV>
+ <BIAS>   2805.89014     </BIAS>
+ <RMSE>  0.387830257     </RMSE>
+ <CORR>  -4.33233318E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3344 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         171 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2960.10620     </BIAS>
+ <RMSE>  0.371090382     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3344 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         171 </NUM>
+ <MEAN>   3107.75586     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2883.76929     </BIAS>
+ <RMSE>  0.403570622     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1794.00000     </MEAN_OBS>
+ <STDV_OBS>   3034.25732     </STDV_OBS>
+ <EXP>
+ <ID>        3351 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         175 </NUM>
+ <MEAN>   3716.38281     </MEAN>
+ <STDV>  -4.34370142E+14 </STDV>
+ <BIAS>   2660.23633     </BIAS>
+ <RMSE>  0.394897968     </RMSE>
+ <CORR>  -4.34371484E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3351 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         175 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2964.36963     </BIAS>
+ <RMSE>  0.256547153     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3351 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         175 </NUM>
+ <MEAN>   9.76052570     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2922.32300     </BIAS>
+ <RMSE>  0.311513066     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1853.50317     </MEAN_OBS>
+ <STDV_OBS>   2977.82886     </STDV_OBS>
+ <EXP>
+ <ID>        3354 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         157 </NUM>
+ <MEAN>   4198.39307     </MEAN>
+ <STDV>  -4.22798393E+14 </STDV>
+ <BIAS>   2918.45581     </BIAS>
+ <RMSE>  0.213583782     </RMSE>
+ <CORR>  -4.33233318E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3354 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         157 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2830.42285     </BIAS>
+ <RMSE>  0.317060262     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3354 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         157 </NUM>
+ <MEAN>   2922.32300     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2829.31812     </BIAS>
+ <RMSE>  0.325386852     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1957.12231     </MEAN_OBS>
+ <STDV_OBS>   2939.59692     </STDV_OBS>
+ <EXP>
+ <ID>        3373 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         139 </NUM>
+ <MEAN>   4243.79395     </MEAN>
+ <STDV>  -4.34334977E+14 </STDV>
+ <BIAS>   2615.01929     </BIAS>
+ <RMSE>  0.404913396     </RMSE>
+ <CORR>   1.57950586E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3373 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         139 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2765.77441     </BIAS>
+ <RMSE>  0.321162492     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3373 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         139 </NUM>
+ <MEAN>   2829.31812     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2736.70020     </BIAS>
+ <RMSE>  0.360194564     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2561.72949     </MEAN_OBS>
+ <STDV_OBS>   3018.23730     </STDV_OBS>
+ <EXP>
+ <ID>        3377 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         133 </NUM>
+ <MEAN>   4204.88770     </MEAN>
+ <STDV>  -4.34333635E+14 </STDV>
+ <BIAS>   2875.13794     </BIAS>
+ <RMSE>  0.407055736     </RMSE>
+ <CORR>  -4.34371014E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3377 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         133 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3105.97314     </BIAS>
+ <RMSE>  0.344232023     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3377 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         133 </NUM>
+ <MEAN>   2736.70020     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3041.76392     </BIAS>
+ <RMSE>  0.366869539     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2340.62061     </MEAN_OBS>
+ <STDV_OBS>   3013.38745     </STDV_OBS>
+ <EXP>
+ <ID>        3379 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         145 </NUM>
+ <MEAN>   4399.40967     </MEAN>
+ <STDV>   1.57950586E+30 </STDV>
+ <BIAS>   2741.72119     </BIAS>
+ <RMSE>  0.425104439     </RMSE>
+ <CORR>  -4.56090832E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3379 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         145 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2847.90308     </BIAS>
+ <RMSE>  0.419435501     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3379 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         145 </NUM>
+ <MEAN>   3041.76392     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2826.88403     </BIAS>
+ <RMSE>  0.433189124     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1780.46057     </MEAN_OBS>
+ <STDV_OBS>   2773.73755     </STDV_OBS>
+ <EXP>
+ <ID>        3382 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         152 </NUM>
+ <MEAN>   3820.52832     </MEAN>
+ <STDV>  -4.34371014E+14 </STDV>
+ <BIAS>   2500.27222     </BIAS>
+ <RMSE>  0.268113613     </RMSE>
+ <CORR>   1.47734830E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3382 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         152 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2736.26709     </BIAS>
+ <RMSE>  0.244816154     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3382 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         152 </NUM>
+ <MEAN>   2826.88403     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2661.15747     </BIAS>
+ <RMSE>  0.281077206     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1906.56714     </MEAN_OBS>
+ <STDV_OBS>   2856.37280     </STDV_OBS>
+ <EXP>
+ <ID>        3385 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         134 </NUM>
+ <MEAN>   4195.31543     </MEAN>
+ <STDV>   1.47673780E+30 </STDV>
+ <BIAS>   2446.82007     </BIAS>
+ <RMSE>  0.312417597     </RMSE>
+ <CORR>  -4.34035067E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3385 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         134 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2803.87573     </BIAS>
+ <RMSE>  0.234423697     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3385 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         134 </NUM>
+ <MEAN>   2661.15747     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2784.77246     </BIAS>
+ <RMSE>  0.244745851     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2992.94116     </MEAN_OBS>
+ <STDV_OBS>   2844.64966     </STDV_OBS>
+ <EXP>
+ <ID>        3391 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         170 </NUM>
+ <MEAN>   5092.27979     </MEAN>
+ <STDV>  -4.57141991E+14 </STDV>
+ <BIAS>   3314.61377     </BIAS>
+ <RMSE>  0.295103878     </RMSE>
+ <CORR>  -4.33233318E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3391 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         170 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3361.54639     </BIAS>
+ <RMSE>  0.267670274     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3391 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         170 </NUM>
+ <MEAN>   2784.77246     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3375.35156     </BIAS>
+ <RMSE>  0.255288690     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1991.92053     </MEAN_OBS>
+ <STDV_OBS>   2873.29321     </STDV_OBS>
+ <EXP>
+ <ID>        3392 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         151 </NUM>
+ <MEAN>   4340.87354     </MEAN>
+ <STDV>  -4.34035067E+14 </STDV>
+ <BIAS>   2593.09863     </BIAS>
+ <RMSE>  0.381565720     </RMSE>
+ <CORR>   1.47734830E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3392 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         151 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2662.52344     </BIAS>
+ <RMSE>  0.361513644     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3392 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         151 </NUM>
+ <MEAN>   3375.35156     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2580.39746     </BIAS>
+ <RMSE>  0.434673637     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1137.08948     </MEAN_OBS>
+ <STDV_OBS>   3262.95190     </STDV_OBS>
+ <EXP>
+ <ID>        3405 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         134 </NUM>
+ <MEAN>   3607.51367     </MEAN>
+ <STDV>  -4.34334708E+14 </STDV>
+ <BIAS>   2917.76636     </BIAS>
+ <RMSE>  0.329101086     </RMSE>
+ <CORR>  -4.22798393E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3405 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         134 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3202.61377     </BIAS>
+ <RMSE>  0.234118521     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3405 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         134 </NUM>
+ <MEAN>   2580.39746     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3171.47290     </BIAS>
+ <RMSE>  0.239134833     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1223.06250     </MEAN_OBS>
+ <STDV_OBS>   3282.93628     </STDV_OBS>
+ <EXP>
+ <ID>        3410 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         160 </NUM>
+ <MEAN>   3758.99536     </MEAN>
+ <STDV>   1.47658033E+30 </STDV>
+ <BIAS>   3032.50635     </BIAS>
+ <RMSE>  0.307592958     </RMSE>
+ <CORR>   1.57750403E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3410 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         160 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3144.33203     </BIAS>
+ <RMSE>  0.315632969     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3410 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         160 </NUM>
+ <MEAN>   8.75786591     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3178.82495     </BIAS>
+ <RMSE>  0.256713986     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1850.46362     </MEAN_OBS>
+ <STDV_OBS>   2959.70850     </STDV_OBS>
+ <EXP>
+ <ID>        3414 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         151 </NUM>
+ <MEAN>   4197.91797     </MEAN>
+ <STDV>  -4.34371215E+14 </STDV>
+ <BIAS>   2700.60327     </BIAS>
+ <RMSE>  0.365097106     </RMSE>
+ <CORR>  -4.44488279E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3414 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         151 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2917.48755     </BIAS>
+ <RMSE>  0.279580206     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3414 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         151 </NUM>
+ <MEAN>   3178.82495     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2857.52124     </BIAS>
+ <RMSE>  0.316314906     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2000.46509     </MEAN_OBS>
+ <STDV_OBS>   2969.84473     </STDV_OBS>
+ <EXP>
+ <ID>        3462 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         129 </NUM>
+ <MEAN>   4811.58984     </MEAN>
+ <STDV>   1.57750403E+30 </STDV>
+ <BIAS>   2909.99097     </BIAS>
+ <RMSE>  0.248970270     </RMSE>
+ <CORR>  -4.33232848E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3462 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         129 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2887.89380     </BIAS>
+ <RMSE>  0.223396525     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3462 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         129 </NUM>
+ <MEAN>   2857.52124     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2901.84937     </BIAS>
+ <RMSE>  0.244662926     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2227.77783     </MEAN_OBS>
+ <STDV_OBS>   2943.29028     </STDV_OBS>
+ <EXP>
+ <ID>        3469 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         135 </NUM>
+ <MEAN>   4655.01318     </MEAN>
+ <STDV>  -4.34372759E+14 </STDV>
+ <BIAS>   2581.12793     </BIAS>
+ <RMSE>  0.443173856     </RMSE>
+ <CORR>   1.47673901E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3469 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         135 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2648.08423     </BIAS>
+ <RMSE>  0.406209946     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3469 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         135 </NUM>
+ <MEAN>   2901.84937     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2681.50928     </BIAS>
+ <RMSE>  0.408040792     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2410.37231     </MEAN_OBS>
+ <STDV_OBS>   2928.29688     </STDV_OBS>
+ <EXP>
+ <ID>        3482 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         188 </NUM>
+ <MEAN>   4835.31543     </MEAN>
+ <STDV>  -4.34037819E+14 </STDV>
+ <BIAS>   2790.33154     </BIAS>
+ <RMSE>  0.363169789     </RMSE>
+ <CORR>  -4.44488279E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3482 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         188 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3043.69897     </BIAS>
+ <RMSE>  0.213456541     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3482 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         188 </NUM>
+ <MEAN>   2681.50928     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2941.18604     </BIAS>
+ <RMSE>  0.283279836     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1776.69226     </MEAN_OBS>
+ <STDV_OBS>   2918.97729     </STDV_OBS>
+ <EXP>
+ <ID>        3488 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         130 </NUM>
+ <MEAN>   4716.45801     </MEAN>
+ <STDV>   1.47673901E+30 </STDV>
+ <BIAS>   2737.75513     </BIAS>
+ <RMSE>  0.295067489     </RMSE>
+ <CORR>  -4.56090832E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3488 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         130 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2834.39478     </BIAS>
+ <RMSE>  0.237418830     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3488 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         130 </NUM>
+ <MEAN>   2941.18604     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2828.88916     </BIAS>
+ <RMSE>  0.251619846     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1372.13794     </MEAN_OBS>
+ <STDV_OBS>   3263.15625     </STDV_OBS>
+ <EXP>
+ <ID>        3502 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         145 </NUM>
+ <MEAN>   4491.38477     </MEAN>
+ <STDV>  -4.34340547E+14 </STDV>
+ <BIAS>   2995.46631     </BIAS>
+ <RMSE>  0.366130739     </RMSE>
+ <CORR>  -4.34334977E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3502 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         145 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3256.20850     </BIAS>
+ <RMSE>  0.205367014     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3502 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         145 </NUM>
+ <MEAN>   2828.88916     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3149.55347     </BIAS>
+ <RMSE>  0.289657146     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1117.80823     </MEAN_OBS>
+ <STDV_OBS>   3243.21875     </STDV_OBS>
+ <EXP>
+ <ID>        3503 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         146 </NUM>
+ <MEAN>   3605.19604     </MEAN>
+ <STDV>   1.47656371E+30 </STDV>
+ <BIAS>   2903.26465     </BIAS>
+ <RMSE>  0.394579262     </RMSE>
+ <CORR>  -4.22798359E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3503 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         146 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3080.17358     </BIAS>
+ <RMSE>  0.319679469     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3503 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         146 </NUM>
+ <MEAN>   3149.55347     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3039.16431     </BIAS>
+ <RMSE>  0.355747670     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   998.456787     </MEAN_OBS>
+ <STDV_OBS>   3309.87549     </STDV_OBS>
+ <EXP>
+ <ID>        3507 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   3670.69287     </MEAN>
+ <STDV>  -4.34371484E+14 </STDV>
+ <BIAS>   3139.12012     </BIAS>
+ <RMSE>  0.180560574     </RMSE>
+ <CORR>  -4.33233318E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3507 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3141.76123     </BIAS>
+ <RMSE>  0.320104420     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3507 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   3039.16431     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3169.47998     </BIAS>
+ <RMSE>  0.278096974     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1737.87231     </MEAN_OBS>
+ <STDV_OBS>   2948.87524     </STDV_OBS>
+ <EXP>
+ <ID>        3520 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         141 </NUM>
+ <MEAN>   4458.98145     </MEAN>
+ <STDV>   1.47734437E+30 </STDV>
+ <BIAS>   2850.34253     </BIAS>
+ <RMSE>  0.287362754     </RMSE>
+ <CORR>  -4.34334507E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3520 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         141 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2825.23340     </BIAS>
+ <RMSE>  0.334111094     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3520 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         141 </NUM>
+ <MEAN>   3169.47998     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2833.89722     </BIAS>
+ <RMSE>  0.303819299     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1701.98474     </MEAN_OBS>
+ <STDV_OBS>   2972.31396     </STDV_OBS>
+ <EXP>
+ <ID>        3522 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         131 </NUM>
+ <MEAN>   4458.14551     </MEAN>
+ <STDV>  -4.34370142E+14 </STDV>
+ <BIAS>   2810.90649     </BIAS>
+ <RMSE>  0.292125791     </RMSE>
+ <CORR>  -4.22798393E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3522 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         131 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2860.45410     </BIAS>
+ <RMSE>  0.269132763     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3522 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         131 </NUM>
+ <MEAN>   2833.89722     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2911.24341     </BIAS>
+ <RMSE>  0.225322992     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1607.20935     </MEAN_OBS>
+ <STDV_OBS>   2976.27393     </STDV_OBS>
+ <EXP>
+ <ID>        3529 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         129 </NUM>
+ <MEAN>   4104.91748     </MEAN>
+ <STDV>  -4.34038087E+14 </STDV>
+ <BIAS>   2854.60815     </BIAS>
+ <RMSE>  0.216210946     </RMSE>
+ <CORR>  -4.33233318E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3529 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         129 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2851.48608     </BIAS>
+ <RMSE>  0.282294124     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3529 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         129 </NUM>
+ <MEAN>   2911.24341     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2885.73438     </BIAS>
+ <RMSE>  0.234277114     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1798.08508     </MEAN_OBS>
+ <STDV_OBS>   2907.97046     </STDV_OBS>
+ <EXP>
+ <ID>        3535 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         141 </NUM>
+ <MEAN>   4143.51123     </MEAN>
+ <STDV>   1.47671573E+30 </STDV>
+ <BIAS>   2617.30176     </BIAS>
+ <RMSE>  0.372607738     </RMSE>
+ <CORR>  -4.57175311E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3535 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         141 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2764.04150     </BIAS>
+ <RMSE>  0.364346057     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3535 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         141 </NUM>
+ <MEAN>   2885.73438     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2628.19946     </BIAS>
+ <RMSE>  0.423109561     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2141.55542     </MEAN_OBS>
+ <STDV_OBS>   2905.64771     </STDV_OBS>
+ <EXP>
+ <ID>        3544 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         135 </NUM>
+ <MEAN>   5010.30322     </MEAN>
+ <STDV>  -4.34333635E+14 </STDV>
+ <BIAS>   2712.94946     </BIAS>
+ <RMSE>  0.409322381     </RMSE>
+ <CORR>  -4.44488279E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3544 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         135 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2828.35449     </BIAS>
+ <RMSE>  0.314629585     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3544 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         135 </NUM>
+ <MEAN>   2628.19946     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2832.64331     </BIAS>
+ <RMSE>  0.282766908     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2355.36572     </MEAN_OBS>
+ <STDV_OBS>   2971.10132     </STDV_OBS>
+ <EXP>
+ <ID>        3560 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         123 </NUM>
+ <MEAN>   4558.06689     </MEAN>
+ <STDV>   1.47656492E+30 </STDV>
+ <BIAS>   2924.15601     </BIAS>
+ <RMSE>  0.267338932     </RMSE>
+ <CORR>  -4.56090798E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3560 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         123 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2667.46753     </BIAS>
+ <RMSE>  0.441129953     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3560 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         123 </NUM>
+ <MEAN>   2832.64331     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2632.99902     </BIAS>
+ <RMSE>  0.465338260     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2948.50732     </MEAN_OBS>
+ <STDV_OBS>   2844.59424     </STDV_OBS>
+ <EXP>
+ <ID>        3590 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         134 </NUM>
+ <MEAN>   5075.83105     </MEAN>
+ <STDV>  -4.34371685E+14 </STDV>
+ <BIAS>   2922.20923     </BIAS>
+ <RMSE>  0.405976713     </RMSE>
+ <CORR>  -4.34334977E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3590 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         134 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2864.65283     </BIAS>
+ <RMSE>  0.401862234     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3590 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         134 </NUM>
+ <MEAN>   2632.99902     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2763.33838     </BIAS>
+ <RMSE>  0.456716657     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1213.46936     </MEAN_OBS>
+ <STDV_OBS>   3311.82715     </STDV_OBS>
+ <EXP>
+ <ID>        3604 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         147 </NUM>
+ <MEAN>   4230.19824     </MEAN>
+ <STDV>  -4.56090798E+14 </STDV>
+ <BIAS>   2869.64795     </BIAS>
+ <RMSE>  0.361405134     </RMSE>
+ <CORR>  -4.44487810E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3604 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         147 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3166.55420     </BIAS>
+ <RMSE>  0.288172036     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3604 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         147 </NUM>
+ <MEAN>   2763.33838     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3154.25879     </BIAS>
+ <RMSE>  0.307161003     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1115.17236     </MEAN_OBS>
+ <STDV_OBS>   3319.72510     </STDV_OBS>
+ <EXP>
+ <ID>        3605 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         145 </NUM>
+ <MEAN>   4459.97949     </MEAN>
+ <STDV>  -4.34370410E+14 </STDV>
+ <BIAS>   2972.04028     </BIAS>
+ <RMSE>  0.276817143     </RMSE>
+ <CORR>   1.57750403E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3605 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         145 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3090.49878     </BIAS>
+ <RMSE>  0.377985299     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3605 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         145 </NUM>
+ <MEAN>   3154.25879     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3079.56323     </BIAS>
+ <RMSE>  0.369205534     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1958.50012     </MEAN_OBS>
+ <STDV_OBS>   2928.57178     </STDV_OBS>
+ <EXP>
+ <ID>        3647 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         120 </NUM>
+ <MEAN>   5216.69141     </MEAN>
+ <STDV>   1.57937046E+30 </STDV>
+ <BIAS>   2926.46436     </BIAS>
+ <RMSE>  0.229240656     </RMSE>
+ <CORR>  -4.22798393E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3647 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         120 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2805.20630     </BIAS>
+ <RMSE>  0.269122958     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3647 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         120 </NUM>
+ <MEAN>   6.68805552     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2844.29834     </BIAS>
+ <RMSE>  0.291838795     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3554.45776     </MEAN_OBS>
+ <STDV_OBS>   2898.93481     </STDV_OBS>
+ <EXP>
+ <ID>        3649 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   5339.65820     </MEAN>
+ <STDV>  -4.34333903E+14 </STDV>
+ <BIAS>   3136.55762     </BIAS>
+ <RMSE>  0.427330881     </RMSE>
+ <CORR>   1.47734830E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3649 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3217.76904     </BIAS>
+ <RMSE>  0.388964057     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3649 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   2844.29834     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3177.71655     </BIAS>
+ <RMSE>  0.401205063     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2683.41455     </MEAN_OBS>
+ <STDV_OBS>   2863.26733     </STDV_OBS>
+ <EXP>
+ <ID>        3658 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         123 </NUM>
+ <MEAN>   5217.08057     </MEAN>
+ <STDV>  -4.22798393E+14 </STDV>
+ <BIAS>   2720.24316     </BIAS>
+ <RMSE>  0.474467307     </RMSE>
+ <CORR>  -4.34334708E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3658 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         123 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2715.86157     </BIAS>
+ <RMSE>  0.454464525     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3658 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         123 </NUM>
+ <MEAN>   3177.71655     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2743.47632     </BIAS>
+ <RMSE>  0.436156571     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1908.52942     </MEAN_OBS>
+ <STDV_OBS>   2978.29858     </STDV_OBS>
+ <EXP>
+ <ID>        3660 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   5009.67041     </MEAN>
+ <STDV>   1.47734830E+30 </STDV>
+ <BIAS>   2960.13574     </BIAS>
+ <RMSE>  0.210777581     </RMSE>
+ <CORR>   1.47656492E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3660 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2704.46851     </BIAS>
+ <RMSE>  0.445042342     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3660 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   2743.47632     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2726.52051     </BIAS>
+ <RMSE>  0.397742808     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3988.23535     </MEAN_OBS>
+ <STDV_OBS>   2685.29395     </STDV_OBS>
+ <EXP>
+ <ID>        3672 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         153 </NUM>
+ <MEAN>   5726.71582     </MEAN>
+ <STDV>  -4.33233318E+14 </STDV>
+ <BIAS>   2890.56567     </BIAS>
+ <RMSE>  0.462432802     </RMSE>
+ <CORR>  -4.34371014E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3672 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         153 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2937.67798     </BIAS>
+ <RMSE>  0.407048047     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3672 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         153 </NUM>
+ <MEAN>   2726.52051     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2963.56470     </BIAS>
+ <RMSE>  0.415053129     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2171.32080     </MEAN_OBS>
+ <STDV_OBS>   2820.39917     </STDV_OBS>
+ <EXP>
+ <ID>        3684 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         106 </NUM>
+ <MEAN>   5069.75488     </MEAN>
+ <STDV>  -4.34371014E+14 </STDV>
+ <BIAS>   2649.74072     </BIAS>
+ <RMSE>  0.372511208     </RMSE>
+ <CORR>  -4.34370410E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3684 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         106 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2672.57178     </BIAS>
+ <RMSE>  0.376916826     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3684 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         106 </NUM>
+ <MEAN>   7.00807476     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2787.67944     </BIAS>
+ <RMSE>  0.277193874     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2035.00000     </MEAN_OBS>
+ <STDV_OBS>   2838.58887     </STDV_OBS>
+ <EXP>
+ <ID>        3693 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>          84 </NUM>
+ <MEAN>   4862.48242     </MEAN>
+ <STDV>   1.47673901E+30 </STDV>
+ <BIAS>   2765.32910     </BIAS>
+ <RMSE>  0.295078427     </RMSE>
+ <CORR>  -4.34035067E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3693 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>          84 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2693.08301     </BIAS>
+ <RMSE>  0.299741119     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3693 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>          84 </NUM>
+ <MEAN>   2787.67944     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2648.97119     </BIAS>
+ <RMSE>  0.353950530     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1217.90320     </MEAN_OBS>
+ <STDV_OBS>   3308.65039     </STDV_OBS>
+ <EXP>
+ <ID>        3707 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         124 </NUM>
+ <MEAN>   4270.62646     </MEAN>
+ <STDV>  -4.34333903E+14 </STDV>
+ <BIAS>   3004.09253     </BIAS>
+ <RMSE>  0.425847143     </RMSE>
+ <CORR>  -4.57175277E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3707 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         124 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3158.40894     </BIAS>
+ <RMSE>  0.316859722     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3707 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         124 </NUM>
+ <MEAN>   2648.97119     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3157.30493     </BIAS>
+ <RMSE>  0.294470698     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1028.88892     </MEAN_OBS>
+ <STDV_OBS>   3403.93823     </STDV_OBS>
+ <EXP>
+ <ID>        3710 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>   4552.77979     </MEAN>
+ <STDV>  -4.44487810E+14 </STDV>
+ <BIAS>   3259.38208     </BIAS>
+ <RMSE>  0.262113601     </RMSE>
+ <CORR>  -4.34370142E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3710 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3228.67041     </BIAS>
+ <RMSE>  0.291892648     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3710 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>   3157.30493     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3240.78613     </BIAS>
+ <RMSE>  0.294799805     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1618.62598     </MEAN_OBS>
+ <STDV_OBS>   3229.21631     </STDV_OBS>
+ <EXP>
+ <ID>        3716 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         131 </NUM>
+ <MEAN>   4168.11719     </MEAN>
+ <STDV>   1.47734830E+30 </STDV>
+ <BIAS>   3130.10986     </BIAS>
+ <RMSE>  0.278410494     </RMSE>
+ <CORR>  -4.55246334E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3716 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         131 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3148.10449     </BIAS>
+ <RMSE>  0.272846669     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3716 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         131 </NUM>
+ <MEAN>   3240.78613     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3093.02368     </BIAS>
+ <RMSE>  0.322266459     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1682.39319     </MEAN_OBS>
+ <STDV_OBS>   3055.27295     </STDV_OBS>
+ <EXP>
+ <ID>        3740 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         117 </NUM>
+ <MEAN>   4743.91699     </MEAN>
+ <STDV>  -4.33233318E+14 </STDV>
+ <BIAS>   2959.71338     </BIAS>
+ <RMSE>  0.308610290     </RMSE>
+ <CORR>  -4.34334977E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3740 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         117 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3033.58765     </BIAS>
+ <RMSE>  0.230776161     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3740 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         117 </NUM>
+ <MEAN>   3093.02368     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3039.69092     </BIAS>
+ <RMSE>  0.208997309     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2115.28296     </MEAN_OBS>
+ <STDV_OBS>   2952.46313     </STDV_OBS>
+ <EXP>
+ <ID>        3743 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         106 </NUM>
+ <MEAN>   5365.58496     </MEAN>
+ <STDV>  -4.55246334E+14 </STDV>
+ <BIAS>   2844.56104     </BIAS>
+ <RMSE>  0.419455320     </RMSE>
+ <CORR>  -4.57142025E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3743 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         106 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2831.78564     </BIAS>
+ <RMSE>  0.316747069     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3743 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         106 </NUM>
+ <MEAN>   3039.69092     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2799.29688     </BIAS>
+ <RMSE>  0.378597587     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3327.33862     </MEAN_OBS>
+ <STDV_OBS>   2749.64502     </STDV_OBS>
+ <EXP>
+ <ID>        3746 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         124 </NUM>
+ <MEAN>   5753.97803     </MEAN>
+ <STDV>  -4.34371484E+14 </STDV>
+ <BIAS>   2730.93921     </BIAS>
+ <RMSE>  0.524477124     </RMSE>
+ <CORR>   1.47656492E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3746 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         124 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2894.30127     </BIAS>
+ <RMSE>  0.427225977     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3746 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         124 </NUM>
+ <MEAN>   2799.29688     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2854.32275     </BIAS>
+ <RMSE>  0.455796123     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3600.72021     </MEAN_OBS>
+ <STDV_OBS>   2680.78882     </STDV_OBS>
+ <EXP>
+ <ID>        3749 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         125 </NUM>
+ <MEAN>   5821.45752     </MEAN>
+ <STDV>  -4.57142025E+14 </STDV>
+ <BIAS>   3111.19775     </BIAS>
+ <RMSE>  0.482727408     </RMSE>
+ <CORR>  -4.34339473E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3749 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         125 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3189.62451     </BIAS>
+ <RMSE>  0.403614581     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3749 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         125 </NUM>
+ <MEAN>   2854.32275     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3212.55298     </BIAS>
+ <RMSE>  0.400292963     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3343.24341     </MEAN_OBS>
+ <STDV_OBS>   2902.76392     </STDV_OBS>
+ <EXP>
+ <ID>        3761 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         111 </NUM>
+ <MEAN>   5282.18457     </MEAN>
+ <STDV>   1.47656492E+30 </STDV>
+ <BIAS>   2873.65283     </BIAS>
+ <RMSE>  0.546633959     </RMSE>
+ <CORR>   1.57937046E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3761 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         111 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3010.36938     </BIAS>
+ <RMSE>  0.468938977     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3761 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         111 </NUM>
+ <MEAN>   3212.55298     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2976.01538     </BIAS>
+ <RMSE>  0.491192847     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1910.86963     </MEAN_OBS>
+ <STDV_OBS>   3006.56763     </STDV_OBS>
+ <EXP>
+ <ID>        3768 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>          92 </NUM>
+ <MEAN>   4761.31104     </MEAN>
+ <STDV>  -4.34339473E+14 </STDV>
+ <BIAS>   2805.48193     </BIAS>
+ <RMSE>  0.329524368     </RMSE>
+ <CORR>  -4.34333635E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3768 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>          92 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2797.09253     </BIAS>
+ <RMSE>  0.360785306     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3768 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>          92 </NUM>
+ <MEAN>   2976.01538     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2785.28784     </BIAS>
+ <RMSE>  0.370025456     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2580.24194     </MEAN_OBS>
+ <STDV_OBS>   2721.57153     </STDV_OBS>
+ <EXP>
+ <ID>        3769 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         124 </NUM>
+ <MEAN>   5587.86133     </MEAN>
+ <STDV>   1.57750403E+30 </STDV>
+ <BIAS>   2990.30981     </BIAS>
+ <RMSE>  0.260338545     </RMSE>
+ <CORR>  -4.44487810E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3769 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         124 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2814.35522     </BIAS>
+ <RMSE>  0.305366039     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3769 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         124 </NUM>
+ <MEAN>   2785.28784     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2836.95117     </BIAS>
+ <RMSE>  0.270882547     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2757.96606     </MEAN_OBS>
+ <STDV_OBS>   2838.13135     </STDV_OBS>
+ <EXP>
+ <ID>        3772 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   5323.70850     </MEAN>
+ <STDV>  -4.44487810E+14 </STDV>
+ <BIAS>   2759.42700     </BIAS>
+ <RMSE>  0.420008630     </RMSE>
+ <CORR>  -4.34333903E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3772 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2665.96753     </BIAS>
+ <RMSE>  0.431685627     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3772 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         118 </NUM>
+ <MEAN>   7.65166521     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2662.60083     </BIAS>
+ <RMSE>  0.443024158     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1906.15393     </MEAN_OBS>
+ <STDV_OBS>   2740.61011     </STDV_OBS>
+ <EXP>
+ <ID>        3781 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         117 </NUM>
+ <MEAN>   5595.17236     </MEAN>
+ <STDV>  -4.57143099E+14 </STDV>
+ <BIAS>   2947.37231     </BIAS>
+ <RMSE>  0.240500167     </RMSE>
+ <CORR>  -4.55246334E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3781 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         117 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2799.74463     </BIAS>
+ <RMSE>  0.199026480     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3781 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         117 </NUM>
+ <MEAN>   2662.60083     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2818.70825     </BIAS>
+ <RMSE>  0.201996148     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2411.07690     </MEAN_OBS>
+ <STDV_OBS>   2615.95874     </STDV_OBS>
+ <EXP>
+ <ID>        3797 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         130 </NUM>
+ <MEAN>   5741.50586     </MEAN>
+ <STDV>   1.47656280E+30 </STDV>
+ <BIAS>   2693.35840     </BIAS>
+ <RMSE>  0.369372576     </RMSE>
+ <CORR>  -4.57174203E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3797 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         130 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2630.70776     </BIAS>
+ <RMSE>  0.312021017     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3797 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         130 </NUM>
+ <MEAN>   9.17673588     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2614.51807     </BIAS>
+ <RMSE>  0.327364326     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2830.38477     </MEAN_OBS>
+ <STDV_OBS>   3007.47876     </STDV_OBS>
+ <EXP>
+ <ID>        3808 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         182 </NUM>
+ <MEAN>   5531.16895     </MEAN>
+ <STDV>  -4.57175311E+14 </STDV>
+ <BIAS>   3830.28613     </BIAS>
+ <RMSE>  0.282889843     </RMSE>
+ <CORR>  -4.34037819E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3808 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         182 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3778.17114     </BIAS>
+ <RMSE>  0.267965376     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3808 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         182 </NUM>
+ <MEAN>   2614.51807     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3856.53662     </BIAS>
+ <RMSE>  0.246323317     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1575.09680     </MEAN_OBS>
+ <STDV_OBS>   3070.81689     </STDV_OBS>
+ <EXP>
+ <ID>        3809 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         155 </NUM>
+ <MEAN>   5345.97559     </MEAN>
+ <STDV>  -4.57174203E+14 </STDV>
+ <BIAS>   3449.03491     </BIAS>
+ <RMSE>   9.60841253E-02 </RMSE>
+ <CORR>   1.47671573E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3809 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         155 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3331.45337     </BIAS>
+ <RMSE>  0.142170787     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3809 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         155 </NUM>
+ <MEAN>   3856.53662     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3303.34546     </BIAS>
+ <RMSE>  0.159140244     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1483.76001     </MEAN_OBS>
+ <STDV_OBS>   3199.47754     </STDV_OBS>
+ <EXP>
+ <ID>        3823 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         125 </NUM>
+ <MEAN>   4849.80518     </MEAN>
+ <STDV>  -4.34037819E+14 </STDV>
+ <BIAS>   3351.64355     </BIAS>
+ <RMSE>  0.144520849     </RMSE>
+ <CORR>   1.47734830E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3823 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         125 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3290.89575     </BIAS>
+ <RMSE>  0.159231544     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3823 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         125 </NUM>
+ <MEAN>   3303.34546     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3326.90698     </BIAS>
+ <RMSE>  0.130648404     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2395.62500     </MEAN_OBS>
+ <STDV_OBS>   2991.37744     </STDV_OBS>
+ <EXP>
+ <ID>        3827 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>          96 </NUM>
+ <MEAN>   5400.45312     </MEAN>
+ <STDV>  -4.22798393E+14 </STDV>
+ <BIAS>   3121.40039     </BIAS>
+ <RMSE>  0.325664133     </RMSE>
+ <CORR>  -4.33233318E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3827 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>          96 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3200.81201     </BIAS>
+ <RMSE>  0.255036324     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3827 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>          96 </NUM>
+ <MEAN>   3326.90698     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3107.69531     </BIAS>
+ <RMSE>  0.295763761     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1697.94128     </MEAN_OBS>
+ <STDV_OBS>   2961.61011     </STDV_OBS>
+ <EXP>
+ <ID>        3840 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   5404.00684     </MEAN>
+ <STDV>   1.47734830E+30 </STDV>
+ <BIAS>   3009.97314     </BIAS>
+ <RMSE>  0.263613135     </RMSE>
+ <CORR>   1.57937061E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3840 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2907.72998     </BIAS>
+ <RMSE>  0.330760777     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3840 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   3107.69531     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2906.75757     </BIAS>
+ <RMSE>  0.306086540     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2663.30933     </MEAN_OBS>
+ <STDV_OBS>   2819.77979     </STDV_OBS>
+ <EXP>
+ <ID>        3853 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         139 </NUM>
+ <MEAN>   5626.05957     </MEAN>
+ <STDV>  -4.34370142E+14 </STDV>
+ <BIAS>   3060.44141     </BIAS>
+ <RMSE>  0.271476179     </RMSE>
+ <CORR>  -4.34371484E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3853 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         139 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2825.82227     </BIAS>
+ <RMSE>  0.363475949     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3853 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         139 </NUM>
+ <MEAN>   2906.75757     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2843.50269     </BIAS>
+ <RMSE>  0.350298911     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3380.68970     </MEAN_OBS>
+ <STDV_OBS>   2324.72510     </STDV_OBS>
+ <EXP>
+ <ID>        3857 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>          87 </NUM>
+ <MEAN>   6264.70752     </MEAN>
+ <STDV>   1.57937061E+30 </STDV>
+ <BIAS>   2472.15942     </BIAS>
+ <RMSE>  0.441007107     </RMSE>
+ <CORR>  -4.33233318E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3857 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>          87 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2362.13794     </BIAS>
+ <RMSE>  0.389594376     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3857 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>          87 </NUM>
+ <MEAN>   2843.50269     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2265.58765     </BIAS>
+ <RMSE>  0.454185307     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2644.48584     </MEAN_OBS>
+ <STDV_OBS>   2729.62646     </STDV_OBS>
+ <EXP>
+ <ID>        3862 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         107 </NUM>
+ <MEAN>   5614.94482     </MEAN>
+ <STDV>  -4.34334977E+14 </STDV>
+ <BIAS>   2868.30811     </BIAS>
+ <RMSE>  0.354330331     </RMSE>
+ <CORR>   1.47656280E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3862 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         107 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2784.88940     </BIAS>
+ <RMSE>  0.342834502     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3862 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         107 </NUM>
+ <MEAN>   2265.58765     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2800.66821     </BIAS>
+ <RMSE>  0.322139055     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2222.72729     </MEAN_OBS>
+ <STDV_OBS>   2513.59326     </STDV_OBS>
+ <EXP>
+ <ID>        3872 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>          88 </NUM>
+ <MEAN>   5843.89941     </MEAN>
+ <STDV>  -4.55246334E+14 </STDV>
+ <BIAS>   2911.49023     </BIAS>
+ <RMSE>  0.231777236     </RMSE>
+ <CORR>  -4.56090798E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3872 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>          88 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2724.83813     </BIAS>
+ <RMSE>  0.175613195     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3872 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>          88 </NUM>
+ <MEAN>   7.35471249     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2714.03540     </BIAS>
+ <RMSE>  0.176164195     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2258.06738     </MEAN_OBS>
+ <STDV_OBS>   2749.71582     </STDV_OBS>
+ <EXP>
+ <ID>        3882 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         119 </NUM>
+ <MEAN>   5485.65625     </MEAN>
+ <STDV>   1.47734710E+30 </STDV>
+ <BIAS>   2878.22046     </BIAS>
+ <RMSE>  0.334590077     </RMSE>
+ <CORR>  -4.57143099E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3882 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         119 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2785.66113     </BIAS>
+ <RMSE>  0.300287873     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3882 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         119 </NUM>
+ <MEAN>   6.87543440     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2794.81592     </BIAS>
+ <RMSE>  0.313283116     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3859.53027     </MEAN_OBS>
+ <STDV_OBS>   2646.05151     </STDV_OBS>
+ <EXP>
+ <ID>        3894 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         149 </NUM>
+ <MEAN>   6035.64746     </MEAN>
+ <STDV>  -4.57142025E+14 </STDV>
+ <BIAS>   2844.99341     </BIAS>
+ <RMSE>  0.513959229     </RMSE>
+ <CORR>  -4.33233318E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3894 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         149 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2843.10352     </BIAS>
+ <RMSE>  0.477047145     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3894 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         149 </NUM>
+ <MEAN>   2794.81592     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2776.86719     </BIAS>
+ <RMSE>  0.495508730     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2082.32153     </MEAN_OBS>
+ <STDV_OBS>   2925.62427     </STDV_OBS>
+ <EXP>
+ <ID>        3895 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   5242.20605     </MEAN>
+ <STDV>   1.47673901E+30 </STDV>
+ <BIAS>   3065.77637     </BIAS>
+ <RMSE>  0.329168558     </RMSE>
+ <CORR>   1.47656492E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3895 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2994.93213     </BIAS>
+ <RMSE>  0.307878762     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3895 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2776.86719     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3009.33057     </BIAS>
+ <RMSE>  0.305511653     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1006.64062     </MEAN_OBS>
+ <STDV_OBS>   2934.91040     </STDV_OBS>
+ <EXP>
+ <ID>        3901 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         128 </NUM>
+ <MEAN>   2969.36353     </MEAN>
+ <STDV>   1.47656492E+30 </STDV>
+ <BIAS>   2578.35059     </BIAS>
+ <RMSE>  0.359946847     </RMSE>
+ <CORR>  -4.33224929E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3901 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         128 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2734.35571     </BIAS>
+ <RMSE>  0.390453756     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3901 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         128 </NUM>
+ <MEAN>   1.09629488     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2789.84009     </BIAS>
+ <RMSE>  0.344647169     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1378.91516     </MEAN_OBS>
+ <STDV_OBS>   2945.15527     </STDV_OBS>
+ <EXP>
+ <ID>        3904 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         212 </NUM>
+ <MEAN>   2975.74976     </MEAN>
+ <STDV>  -4.34038087E+14 </STDV>
+ <BIAS>   2531.06006     </BIAS>
+ <RMSE>  0.463279247     </RMSE>
+ <CORR>  -4.57174203E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3904 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         212 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2743.67065     </BIAS>
+ <RMSE>  0.441298246     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3904 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         212 </NUM>
+ <MEAN>   2789.84009     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2641.07251     </BIAS>
+ <RMSE>  0.438472778     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1122.09180     </MEAN_OBS>
+ <STDV_OBS>   2914.47705     </STDV_OBS>
+ <EXP>
+ <ID>        3907 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         196 </NUM>
+ <MEAN>   2769.39819     </MEAN>
+ <STDV>  -4.44488011E+14 </STDV>
+ <BIAS>   2495.85986     </BIAS>
+ <RMSE>  0.274953038     </RMSE>
+ <CORR>  -4.34371484E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3907 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         196 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2975.18896     </BIAS>
+ <RMSE>  0.184170142     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3907 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         196 </NUM>
+ <MEAN>   2641.07251     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2836.14380     </BIAS>
+ <RMSE>  0.219930887     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   948.649963     </MEAN_OBS>
+ <STDV_OBS>   3121.12598     </STDV_OBS>
+ <EXP>
+ <ID>        3911 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         200 </NUM>
+ <MEAN>   2883.40356     </MEAN>
+ <STDV>   1.47734830E+30 </STDV>
+ <BIAS>   2610.60718     </BIAS>
+ <RMSE>  0.331497639     </RMSE>
+ <CORR>  -4.56090832E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3911 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         200 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2906.19995     </BIAS>
+ <RMSE>  0.328258127     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3911 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         200 </NUM>
+ <MEAN>   2836.14380     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2975.86060     </BIAS>
+ <RMSE>  0.293856055     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1071.28076     </MEAN_OBS>
+ <STDV_OBS>   2995.63135     </STDV_OBS>
+ <EXP>
+ <ID>        3915 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         203 </NUM>
+ <MEAN>   2908.85986     </MEAN>
+ <STDV>  -4.34370410E+14 </STDV>
+ <BIAS>   2675.23804     </BIAS>
+ <RMSE>  0.307982028     </RMSE>
+ <CORR>  -4.34333903E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3915 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         203 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2915.60400     </BIAS>
+ <RMSE>  0.311404020     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3915 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         203 </NUM>
+ <MEAN>   2975.86060     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2816.22876     </BIAS>
+ <RMSE>  0.347795784     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1016.77087     </MEAN_OBS>
+ <STDV_OBS>   3140.03687     </STDV_OBS>
+ <EXP>
+ <ID>        3916 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         192 </NUM>
+ <MEAN>   3191.93433     </MEAN>
+ <STDV>   1.47673780E+30 </STDV>
+ <BIAS>   2817.87671     </BIAS>
+ <RMSE>  0.201623634     </RMSE>
+ <CORR>  -4.57143099E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3916 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         192 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3105.97852     </BIAS>
+ <RMSE>  0.248537138     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3916 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         192 </NUM>
+ <MEAN>   2816.22876     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3113.85352     </BIAS>
+ <RMSE>  0.158499077     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1126.72131     </MEAN_OBS>
+ <STDV_OBS>   3014.86060     </STDV_OBS>
+ <EXP>
+ <ID>        3917 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         183 </NUM>
+ <MEAN>   3171.21069     </MEAN>
+ <STDV>  -4.34334977E+14 </STDV>
+ <BIAS>   2658.89502     </BIAS>
+ <RMSE>  0.269924551     </RMSE>
+ <CORR>  -4.33232848E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3917 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         183 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2920.78638     </BIAS>
+ <RMSE>  0.261680037     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3917 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         183 </NUM>
+ <MEAN>   3113.85352     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2879.73389     </BIAS>
+ <RMSE>  0.287454903     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1072.31641     </MEAN_OBS>
+ <STDV_OBS>   3119.77588     </STDV_OBS>
+ <EXP>
+ <ID>        3923 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         177 </NUM>
+ <MEAN>   3396.22852     </MEAN>
+ <STDV>   1.47656492E+30 </STDV>
+ <BIAS>   2772.83423     </BIAS>
+ <RMSE>  0.357114881     </RMSE>
+ <CORR>  -4.34340547E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3923 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         177 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2856.92920     </BIAS>
+ <RMSE>  0.334708005     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3923 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         177 </NUM>
+ <MEAN>   2879.73389     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2945.71484     </BIAS>
+ <RMSE>  0.325603157     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1002.77777     </MEAN_OBS>
+ <STDV_OBS>   3190.84912     </STDV_OBS>
+ <EXP>
+ <ID>        3951 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   3302.73853     </MEAN>
+ <STDV>  -4.34037819E+14 </STDV>
+ <BIAS>   2506.59839     </BIAS>
+ <RMSE>  0.323169053     </RMSE>
+ <CORR>  -4.57143065E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3951 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2906.06299     </BIAS>
+ <RMSE>  0.414291978     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3951 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   2945.71484     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2885.29370     </BIAS>
+ <RMSE>  0.437865555     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1034.62500     </MEAN_OBS>
+ <STDV_OBS>   3042.97461     </STDV_OBS>
+ <EXP>
+ <ID>        3952 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         160 </NUM>
+ <MEAN>   2987.94116     </MEAN>
+ <STDV>  -4.34340547E+14 </STDV>
+ <BIAS>   2618.73779     </BIAS>
+ <RMSE>  0.465894461     </RMSE>
+ <CORR>  -4.33233318E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3952 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         160 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2753.74390     </BIAS>
+ <RMSE>  0.451083392     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3952 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         160 </NUM>
+ <MEAN>   2885.29370     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2726.97583     </BIAS>
+ <RMSE>  0.453507453     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   819.179077     </MEAN_OBS>
+ <STDV_OBS>   2910.24219     </STDV_OBS>
+ <EXP>
+ <ID>        3953 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         134 </NUM>
+ <MEAN>   2550.39111     </MEAN>
+ <STDV>  -4.57143065E+14 </STDV>
+ <BIAS>   2331.33594     </BIAS>
+ <RMSE>  0.545949519     </RMSE>
+ <CORR>  -4.22798393E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3953 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         134 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2508.91992     </BIAS>
+ <RMSE>  0.528386116     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3953 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         134 </NUM>
+ <MEAN>   2726.97583     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2554.31201     </BIAS>
+ <RMSE>  0.536481559     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1190.95239     </MEAN_OBS>
+ <STDV_OBS>   3276.64380     </STDV_OBS>
+ <EXP>
+ <ID>        3955 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         189 </NUM>
+ <MEAN>   3682.26245     </MEAN>
+ <STDV>  -4.34370142E+14 </STDV>
+ <BIAS>   2674.01636     </BIAS>
+ <RMSE>  0.503154218     </RMSE>
+ <CORR>  -4.57175277E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3955 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         189 </NUM>
+ <MEAN>   7.34000136E-42 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2941.37646     </BIAS>
+ <RMSE>  0.452037930     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3955 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         189 </NUM>
+ <MEAN>  -4.40045706E+14 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2887.83862     </BIAS>
+ <RMSE>  0.471261114     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1148.59753     </MEAN_OBS>
+ <STDV_OBS>   3237.34229     </STDV_OBS>
+ <EXP>
+ <ID>        3956 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         164 </NUM>
+ <MEAN>   3905.21973     </MEAN>
+ <STDV>  -4.55246334E+14 </STDV>
+ <BIAS>   3162.85620     </BIAS>
+ <RMSE>  0.154784173     </RMSE>
+ <CORR>   15924.2490     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3956 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         164 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3273.64038     </BIAS>
+ <RMSE>  0.181164041     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3956 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         164 </NUM>
+ <MEAN>   2887.83862     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3197.00073     </BIAS>
+ <RMSE>  0.213080987     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1546.62646     </MEAN_OBS>
+ <STDV_OBS>   3099.92017     </STDV_OBS>
+ <EXP>
+ <ID>        3961 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3818.27026     </MEAN>
+ <STDV>   1.47734830E+30 </STDV>
+ <BIAS>   2527.41309     </BIAS>
+ <RMSE>  0.416620016     </RMSE>
+ <CORR>  -4.34371014E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3961 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2999.03149     </BIAS>
+ <RMSE>  0.271370471     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3961 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3197.00073     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3004.46240     </BIAS>
+ <RMSE>  0.273249775     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1240.16394     </MEAN_OBS>
+ <STDV_OBS>   3099.45117     </STDV_OBS>
+ <EXP>
+ <ID>        3962 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         183 </NUM>
+ <MEAN>   3558.14844     </MEAN>
+ <STDV>  -4.85129777E+14 </STDV>
+ <BIAS>   2821.57959     </BIAS>
+ <RMSE>  0.354137003     </RMSE>
+ <CORR>  -4.56090798E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3962 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         183 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2983.31860     </BIAS>
+ <RMSE>  0.355969369     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3962 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         183 </NUM>
+ <MEAN>   3004.46240     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2906.55151     </BIAS>
+ <RMSE>  0.367690116     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2088.03369     </MEAN_OBS>
+ <STDV_OBS>   2966.71094     </STDV_OBS>
+ <EXP>
+ <ID>        3963 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         178 </NUM>
+ <MEAN>   3032.02612     </MEAN>
+ <STDV>  -4.34038087E+14 </STDV>
+ <BIAS>   2519.32739     </BIAS>
+ <RMSE>  0.597159028     </RMSE>
+ <CORR>   1.47673901E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3963 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         178 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2604.53906     </BIAS>
+ <RMSE>  0.573736131     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3963 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         178 </NUM>
+ <MEAN>   2906.55151     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2517.33521     </BIAS>
+ <RMSE>  0.586607993     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1379.61035     </MEAN_OBS>
+ <STDV_OBS>   2956.59741     </STDV_OBS>
+ <EXP>
+ <ID>        3966 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         154 </NUM>
+ <MEAN>   3142.61670     </MEAN>
+ <STDV>   1.47734710E+30 </STDV>
+ <BIAS>   2572.39209     </BIAS>
+ <RMSE>  0.379851103     </RMSE>
+ <CORR>  -4.34038087E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3966 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         154 </NUM>
+ <MEAN>   7.34000136E-42 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2680.02246     </BIAS>
+ <RMSE>  0.421237260     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3966 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         154 </NUM>
+ <MEAN>  -4.41967167E+14 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2701.83081     </BIAS>
+ <RMSE>  0.402385503     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1866.00000     </MEAN_OBS>
+ <STDV_OBS>   3121.45508     </STDV_OBS>
+ <EXP>
+ <ID>        3967 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         200 </NUM>
+ <MEAN>   4289.80615     </MEAN>
+ <STDV>  -4.57142025E+14 </STDV>
+ <BIAS>   2666.17261     </BIAS>
+ <RMSE>  0.545781672     </RMSE>
+ <CORR>   1.38776615E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3967 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         200 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2847.42920     </BIAS>
+ <RMSE>  0.492318541     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3967 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         200 </NUM>
+ <MEAN>   2701.83081     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2891.88794     </BIAS>
+ <RMSE>  0.476124495     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1746.58533     </MEAN_OBS>
+ <STDV_OBS>   3026.06982     </STDV_OBS>
+ <EXP>
+ <ID>        3969 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         205 </NUM>
+ <MEAN>   4717.70996     </MEAN>
+ <STDV>  -4.34371014E+14 </STDV>
+ <BIAS>   2913.16846     </BIAS>
+ <RMSE>  0.428905249     </RMSE>
+ <CORR>  -4.44488279E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3969 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         205 </NUM>
+ <MEAN>   1.40129846E-45 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3024.73608     </BIAS>
+ <RMSE>  0.383718252     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3969 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         205 </NUM>
+ <MEAN>   2891.88794     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3087.66260     </BIAS>
+ <RMSE>  0.356453180     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1082.54541     </MEAN_OBS>
+ <STDV_OBS>   2911.40039     </STDV_OBS>
+ <EXP>
+ <ID>        3971 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         165 </NUM>
+ <MEAN>   2917.96313     </MEAN>
+ <STDV>  -4.34339473E+14 </STDV>
+ <BIAS>   2322.68140     </BIAS>
+ <RMSE>  0.390924037     </RMSE>
+ <CORR>  -4.34038087E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3971 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         165 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2802.83789     </BIAS>
+ <RMSE>  0.330003172     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3971 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         165 </NUM>
+ <MEAN>   6.17523575     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2693.59497     </BIAS>
+ <RMSE>  0.398869336     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2340.00000     </MEAN_OBS>
+ <STDV_OBS>   2830.02100     </STDV_OBS>
+ <EXP>
+ <ID>        3973 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>           6 </NUM>
+ <MEAN>   6310.62988     </MEAN>
+ <STDV>   1.57750403E+30 </STDV>
+ <BIAS>   2982.90967     </BIAS>
+ <RMSE>  0.340549499     </RMSE>
+ <CORR>  -4.34333903E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3973 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>           6 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2969.98315     </BIAS>
+ <RMSE>  0.340635568     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3973 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>           6 </NUM>
+ <MEAN>   2693.59497     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2969.93335     </BIAS>
+ <RMSE>  0.340641022     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   741.958740     </MEAN_OBS>
+ <STDV_OBS>   2937.25562     </STDV_OBS>
+ <EXP>
+ <ID>        3976 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         194 </NUM>
+ <MEAN>   2584.92554     </MEAN>
+ <STDV>  -4.34369940E+14 </STDV>
+ <BIAS>   2249.45190     </BIAS>
+ <RMSE>  0.395607412     </RMSE>
+ <CORR>  -4.84001274E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3976 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         194 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2650.98853     </BIAS>
+ <RMSE>  0.354671806     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3976 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         194 </NUM>
+ <MEAN>   2969.93335     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2738.55908     </BIAS>
+ <RMSE>  0.382706702     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1040.56702     </MEAN_OBS>
+ <STDV_OBS>   3010.30908     </STDV_OBS>
+ <EXP>
+ <ID>        3978 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         194 </NUM>
+ <MEAN>   3051.30176     </MEAN>
+ <STDV>  -4.34371484E+14 </STDV>
+ <BIAS>   2559.04883     </BIAS>
+ <RMSE>  0.313200921     </RMSE>
+ <CORR>   1.47673901E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3978 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         194 </NUM>
+ <MEAN>   1.40129846E-45 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2898.21436     </BIAS>
+ <RMSE>  0.292189568     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3978 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         194 </NUM>
+ <MEAN>   2738.55908     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2864.39526     </BIAS>
+ <RMSE>  0.316644043     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1794.75012     </MEAN_OBS>
+ <STDV_OBS>   3148.39087     </STDV_OBS>
+ <EXP>
+ <ID>        3979 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         240 </NUM>
+ <MEAN>   3776.73828     </MEAN>
+ <STDV>   15924.2412     </STDV>
+ <BIAS>   2723.80811     </BIAS>
+ <RMSE>  0.475880325     </RMSE>
+ <CORR>   1.23122967E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3979 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         240 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>   2817.34619     </BIAS>
+ <RMSE>  0.452005953     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3979 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         240 </NUM>
+ <MEAN>   2864.39526     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2668.79956     </BIAS>
+ <RMSE>  0.527719319     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   931.595703     </MEAN_OBS>
+ <STDV_OBS>   2990.08984     </STDV_OBS>
+ <EXP>
+ <ID>        3980 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         188 </NUM>
+ <MEAN>   2830.67969     </MEAN>
+ <STDV>  -4.57175311E+14 </STDV>
+ <BIAS>   2515.21240     </BIAS>
+ <RMSE>  0.251907796     </RMSE>
+ <CORR>   1.47791650E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3980 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         188 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2845.45923     </BIAS>
+ <RMSE>  0.236568451     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3980 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         188 </NUM>
+ <MEAN>   2668.79956     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2910.53760     </BIAS>
+ <RMSE>  0.217890069     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1756.46021     </MEAN_OBS>
+ <STDV_OBS>   3151.62964     </STDV_OBS>
+ <EXP>
+ <ID>        7024 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         113 </NUM>
+ <MEAN>   4773.30908     </MEAN>
+ <STDV>   1.57744434E+30 </STDV>
+ <BIAS>   3066.56104     </BIAS>
+ <RMSE>  0.325262696     </RMSE>
+ <CORR>  -4.44488279E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7024 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         113 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3070.89136     </BIAS>
+ <RMSE>  0.355251372     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7024 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         113 </NUM>
+ <MEAN>   2910.53760     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3006.92358     </BIAS>
+ <RMSE>  0.373904645     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2396.80005     </MEAN_OBS>
+ <STDV_OBS>   2705.26392     </STDV_OBS>
+ <EXP>
+ <ID>        7028 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         125 </NUM>
+ <MEAN>   5927.38232     </MEAN>
+ <STDV>  -4.57141958E+14 </STDV>
+ <BIAS>   2982.37524     </BIAS>
+ <RMSE>  0.243158713     </RMSE>
+ <CORR>   1.38676757E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7028 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         125 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3130.03540     </BIAS>
+ <RMSE>   8.62062424E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7028 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         125 </NUM>
+ <MEAN>   3006.92358     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3141.39404     </BIAS>
+ <RMSE>   8.39108974E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1024.54541     </MEAN_OBS>
+ <STDV_OBS>   2242.30786     </STDV_OBS>
+ <EXP>
+ <ID>        7107 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         110 </NUM>
+ <MEAN>   6471.56104     </MEAN>
+ <STDV>  -4.34371685E+14 </STDV>
+ <BIAS>   2848.75000     </BIAS>
+ <RMSE>   5.14829718E-02 </RMSE>
+ <CORR>   1.20204212E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7107 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         110 </NUM>
+ <MEAN>   1.40129846E-45 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2302.54346     </BIAS>
+ <RMSE>   1.27800228E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7107 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         110 </NUM>
+ <MEAN>   3141.39404     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2374.66040     </BIAS>
+ <RMSE>  -7.45263323E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1977.27283     </MEAN_OBS>
+ <STDV_OBS>   2443.23950     </STDV_OBS>
+ <EXP>
+ <ID>        7117 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         132 </NUM>
+ <MEAN>   6341.65479     </MEAN>
+ <STDV>   15533.4902     </STDV>
+ <BIAS>   3063.45630     </BIAS>
+ <RMSE>  0.227408767     </RMSE>
+ <CORR>   1.57830419E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7117 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         132 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>   3123.63452     </BIAS>
+ <RMSE>   5.07066660E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7117 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         132 </NUM>
+ <MEAN>   2374.66040     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3001.77393     </BIAS>
+ <RMSE>  0.124575794     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1551.76990     </MEAN_OBS>
+ <STDV_OBS>   3182.18140     </STDV_OBS>
+ <EXP>
+ <ID>        7118 </ID>
+ <NAME>RFRMIN25</NAME>
+ <NUM>         113 </NUM>
+ <MEAN>   5057.88281     </MEAN>
+ <STDV>  -4.57193195E+14 </STDV>
+ <BIAS>   3191.94507     </BIAS>
+ <RMSE>  0.258519888     </RMSE>
+ <CORR>  -4.44488279E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7118 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         113 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3070.12109     </BIAS>
+ <RMSE>  0.314635456     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7118 </ID>
+ <NAME>RFRMIN1_TAU</NAME>
+ <NUM>         113 </NUM>
+ <MEAN>   3001.77393     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3133.49927     </BIAS>
+ <RMSE>  0.303390443     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+</STAT>
